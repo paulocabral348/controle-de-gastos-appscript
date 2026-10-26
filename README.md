@@ -4,6 +4,7 @@ Mini app web em Google Apps Script para controlar gastos de cartão por fatura,
 ligado a uma planilha do Google Sheets.
 
 > Projeto pessoal, desenvolvido com auxílio de IA.
+> ![Tela do app Meus Gastos](tela.png.png)
 
 ## O que faz
 
