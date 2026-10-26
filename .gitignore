@@ -1,0 +1,13 @@
+# Planilhas reais (dados pessoais)
+*.xlsx
+*.xls
+*.csv
+
+# clasp (contém o ID do seu script)
+.clasp.json
+.clasprc.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
